@@ -6,5 +6,4 @@ Collection of scripts to automate EBS snapshots in AWS via Lambda
 * The tagging file is largely my own ugly struggle and can easily be modified for other bulk-tag use in AWS.
 
 * For IAM worker permissions, see the original article I followed here:
-
-* * https://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/
+  * https://serverlesscode.com/post/lambda-schedule-ebs-snapshot-backups/
